@@ -1,0 +1,2 @@
+# Heart-Disease-Classifier-using-Machine-Learning
+This repository contains the dataset of heart disease and we have applied different ML algorithms to classify as the person has disease or not. By different using different visualization graphs I have checked in which age of the person the heart disease will occur and getting different insights from the data by plotting different graphs on the data. 
