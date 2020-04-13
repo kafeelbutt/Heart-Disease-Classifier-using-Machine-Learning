@@ -1,6 +1,2 @@
-My project folder contains
-1) presentation slide .pptx
-2) dataset .csv
-3) python jupyter notebook file .pynb
-
-The .pynb file can run through the software jupyter notebook.
+# Heart-Disease-Classifier-using-Machine-Learning
+This repository contains the problem of gender identification and solution with it provided with the datasets. I have applied different ML algorithms to classfiy the record as male or female and pick up the best model and saved it as pickle file for future predictions.
